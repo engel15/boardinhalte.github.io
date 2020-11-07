@@ -6,9 +6,8 @@ body{
 
 table{
     color: white;
-    box-align: center;
+    item-align: center;
 }
-
 a{
     background-color: darkblue;
     color: white;
@@ -16,4 +15,9 @@ a{
 a:hover{
     background: white;
 }
+
+.aligncenter{
+    align-items: center;
+}
+
 
