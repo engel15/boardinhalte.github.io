@@ -8,6 +8,11 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+nav{
+    text-align: center;
+    background-color: rgb(62, 171, 235);
+}
+
 href:hover{
     color: blue;
 }
